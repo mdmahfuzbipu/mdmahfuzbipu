@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://fb.com/https://www.facebook.com/muhammadmahfuz.hossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/muhammadmahfuz.hossain/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/muhammadmahfuz.hossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/muhammadmahfuz.hossain/" height="30" width="40" /></a>
 <a href="https://dev.to/mdmahfuzbipu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mdmahfuzbipu" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ddos_mind28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ddos_mind28" height="30" width="40" /></a>
 </p>
